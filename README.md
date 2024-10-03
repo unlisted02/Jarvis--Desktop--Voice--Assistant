@@ -38,7 +38,7 @@ Python 3.6+
 2. **Clone The Repository**
    - Clone the forked repository to your local machine:
      ```bash
-     git clone [url](https://github.com/unlisted02/Jarvis--Desktop--Voice--Assistant.git)
+     git clone https://github.com/unlisted02/Jarvis--Desktop--Voice--Assistant.git
      cd Jarvis--Desktop--Voice--Assistant
      ```
 
