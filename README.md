@@ -38,8 +38,8 @@ Python 3.6+
 2. **Clone The Repository**
    - Clone the forked repository to your local machine:
      ```bash
-     git clone <URL>
-     cd Jarvis-Desktop-Voice-Assistant
+     git clone [url](https://github.com/unlisted02/Jarvis--Desktop--Voice--Assistant.git)
+     cd Jarvis--Desktop--Voice--Assistant
      ```
 
 3.  **Create and Activate a Virtual Environment**
@@ -52,7 +52,7 @@ Python 3.6+
        ```bash
        .venv\Scripts\activate
        ```
-     - For macOS/Linux:
+     - For macOS/Linux/Termux:
        ```bash
        source .venv/bin/activate
        ```
