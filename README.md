@@ -52,7 +52,7 @@ Python 3.6+
        ```bash
        .venv\Scripts\activate
        ```
-     - For macOS/Linux/Termux:
+     - For macOS/Linux/:
        ```bash
        source .venv/bin/activate
        ```
